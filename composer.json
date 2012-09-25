@@ -1,0 +1,16 @@
+{
+	"name": "silverstripe-labs/recipes ",
+	"description": "Various SilverStripe CMS related code snippets",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe-labs", "recipes"],
+	"authors": [
+	{
+		"name": "Will Rossiter",
+		"email": "will@fullscreen.io"
+	}
+	],
+	"require":
+	{
+		"silverstripe/framework": "2.4.*"
+	}
+}
